@@ -1,3 +1,4 @@
 rootProject.name='MyCustomAndroid'
 include ':app'
 include ':myanimator'
+include ':myimageloader'
